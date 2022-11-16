@@ -2,5 +2,5 @@
     <div class="float-right d-none d-sm-block">
         <b>Version</b> 3.2.0
     </div>
-    <strong>Copyright &copy; 2014-2021 <a href="https://www.facebook.com/AmazaRashi2">Facebook gw</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2014-2021 <a href="https://www.instagram.com/rafiabhst/">Instagram</a>.</strong> All rights reserved.
 </footer>
